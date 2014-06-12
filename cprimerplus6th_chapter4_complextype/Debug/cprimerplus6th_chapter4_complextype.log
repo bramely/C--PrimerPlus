@@ -1,0 +1,36 @@
+﻿生成启动时间为 2014/6/8 19:58:41。
+     1>项目“D:\VS_Project\cprimerplus6th_chapter4_complextype\cprimerplus6th_chapter4_complextype\cprimerplus6th_chapter4_complextype.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt cprimerplus_exercise_4_7.cpp cprimerplus_exercise_4_8.cpp cprimerplus_exercise_4_9.cpp cprimerplus_exercise_4_10.cpp cprimerplus_exercise_4_6.cpp cprimerplus_exercise_4_1.cpp cprimerplus_exercise_4_2.cpp cprimerplus_exercise_4_3.cpp cprimerplus_exercise_4_4.cpp cprimerplus_exercise_4_5.cpp main.cpp
+         main.cpp
+         cprimerplus_exercise_4_5.cpp
+         cprimerplus_exercise_4_4.cpp
+         cprimerplus_exercise_4_3.cpp
+     1>d:\vs_project\cprimerplus6th_chapter4_complextype\cprimerplus6th_chapter4_complextype\cprimerplus_exercise_4_3.cpp(15): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 11.0\vc\include\string.h(115) : 参见“strcat”的声明
+         cprimerplus_exercise_4_2.cpp
+         cprimerplus_exercise_4_1.cpp
+         cprimerplus_exercise_4_6.cpp
+         cprimerplus_exercise_4_10.cpp
+         cprimerplus_exercise_4_9.cpp
+         cprimerplus_exercise_4_8.cpp
+         cprimerplus_exercise_4_7.cpp
+         正在生成代码...
+       Link:
+         C:\Program Files\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\VS_Project\cprimerplus6th_chapter4_complextype\Debug\cprimerplus6th_chapter4_complextype.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\VS_Project\cprimerplus6th_chapter4_complextype\Debug\cprimerplus6th_chapter4_complextype.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\VS_Project\cprimerplus6th_chapter4_complextype\Debug\cprimerplus6th_chapter4_complextype.lib" /MACHINE:X86 Debug\cprimerplus_exercise_4_7.obj
+         Debug\cprimerplus_exercise_4_8.obj
+         Debug\cprimerplus_exercise_4_9.obj
+         Debug\cprimerplus_exercise_4_10.obj
+         Debug\cprimerplus_exercise_4_6.obj
+         Debug\cprimerplus_exercise_4_1.obj
+         Debug\cprimerplus_exercise_4_2.obj
+         Debug\cprimerplus_exercise_4_3.obj
+         Debug\cprimerplus_exercise_4_4.obj
+         Debug\cprimerplus_exercise_4_5.obj
+         Debug\main.obj
+         cprimerplus6th_chapter4_complextype.vcxproj -> D:\VS_Project\cprimerplus6th_chapter4_complextype\Debug\cprimerplus6th_chapter4_complextype.exe
+     1>已完成生成项目“D:\VS_Project\cprimerplus6th_chapter4_complextype\cprimerplus6th_chapter4_complextype\cprimerplus6th_chapter4_complextype.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:06.58
